@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Insights_Core.Interfaces;
 using Insights_Infrastructure.Repositories;
+using Microsoft.AspNetCore.Http;
 
 namespace Insights_App
 {
@@ -24,7 +25,7 @@ namespace Insights_App
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<ISample, Sample>();
-
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
             {

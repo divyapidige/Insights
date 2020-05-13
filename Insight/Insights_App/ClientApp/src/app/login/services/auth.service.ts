@@ -35,8 +35,14 @@ export class AuthService {
 
   async getSampleData() {
     const url = UrlHelper.joinPath(environment.virtualDirectoryName, Url.samplData);
-    let marksData = await this.wrapperService.callApi('get', url);
-    return marksData;
+    let sampleData = await this.wrapperService.callApi('get', url);
+    return sampleData;
+  }
+
+  async getUserId() {
+    const url = UrlHelper.joinPath(environment.virtualDirectoryName, Url.getUserId);
+    let userId = await this.wrapperService.callApi('get', url);
+    return userId;
   }
 
 }

@@ -7,5 +7,6 @@
  * */
 export const Url = {
   samplData: 'api/SampleData',
+  getUserId:'api/user/getUserId'
 };
 
