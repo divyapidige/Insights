@@ -1,0 +1,9 @@
+C:\Users\Divya\source\repos\Insights\Insights_Core\bin\Debug\netcoreapp3.1\Insights_Core.deps.json
+C:\Users\Divya\source\repos\Insights\Insights_Core\bin\Debug\netcoreapp3.1\Insights_Core.dll
+C:\Users\Divya\source\repos\Insights\Insights_Core\bin\Debug\netcoreapp3.1\Insights_Core.pdb
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.csprojAssemblyReference.cache
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.AssemblyInfoInputs.cache
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.AssemblyInfo.cs
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.dll
+C:\Users\Divya\source\repos\Insights\Insights_Core\obj\Debug\netcoreapp3.1\Insights_Core.pdb
