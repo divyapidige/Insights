@@ -4,12 +4,12 @@
     "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\Insights_Infrastructure.csproj": {}
   },
   "projects": {
-    "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj": {
+    "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj",
-        "projectName": "Insights_Core",
-        "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj",
+        "projectUniqueName": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj",
+        "projectName": "Insight_Core",
+        "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj",
         "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
         "outputPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj": {
-                "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj"
+              "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj": {
+                "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj"
               }
             }
           }

@@ -208,14 +208,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Insights_Core/1.0.0": {
+      "Insight_Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "compile": {
-          "bin/placeholder/Insights_Core.dll": {}
+          "bin/placeholder/Insight_Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Insights_Core.dll": {}
+          "bin/placeholder/Insight_Core.dll": {}
         }
       }
     }
@@ -692,15 +692,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Insights_Core/1.0.0": {
+    "Insight_Core/1.0.0": {
       "type": "project",
-      "path": "../Insights_Core/Insights_Core.csproj",
-      "msbuildProject": "../Insights_Core/Insights_Core.csproj"
+      "path": "../Insights_Core/Insight_Core.csproj",
+      "msbuildProject": "../Insights_Core/Insight_Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Insights_Core >= 1.0.0",
+      "Insight_Core >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -710,9 +710,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\Insights_Infrastructure.csproj",
-      "projectName": "Insights_Infrastructure",
-      "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\Insights_Infrastructure.csproj",
+      "projectUniqueName": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\Insight_Infrastructure.csproj",
+      "projectName": "Insight_Infrastructure",
+      "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\Insight_Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Divya\\.nuget\\packages\\",
       "outputPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -730,8 +730,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj": {
-              "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insights_Core.csproj"
+            "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj": {
+              "projectPath": "H:\\GitHub Projects\\Insights\\Insight\\Insights_Core\\Insight_Core.csproj"
             }
           }
         }

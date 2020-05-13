@@ -19,7 +19,7 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
-            "deployUrl": "Home/",
+            //"deployUrl": "Home/",
             "assets": [
               "src/favicon.ico",
               "src/assets"

@@ -1,14 +1,13 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { AppComponent } from './app.component';
 import { SampleComponent } from './sample/sample.component';
-import { WelcomeComponent } from './welcome/welcome.component';
+import { HomeComponent } from './pages/home/home.component';
 import { environment } from '../environments/environment';
 
 const routes: Routes = [
-  { path: '', component: WelcomeComponent },
-  { path: environment.virtualDirectoryName, component: WelcomeComponent },
-  { path: environment.virtualDirectoryName + '/Sample', component: SampleComponent },
+  { path: '', component: HomeComponent },
+  { path: 'home', component: HomeComponent },
+  { path: environment.virtualDirectoryName + 'sample', component: SampleComponent },
 ];
 
 @NgModule({

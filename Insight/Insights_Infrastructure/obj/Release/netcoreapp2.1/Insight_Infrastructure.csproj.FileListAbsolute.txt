@@ -1,0 +1,12 @@
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\bin\Release\netcoreapp2.1\Insight_Infrastructure.deps.json
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\bin\Release\netcoreapp2.1\Insight_Infrastructure.dll
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\bin\Release\netcoreapp2.1\Insight_Infrastructure.pdb
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\bin\Release\netcoreapp2.1\Insight_Core.dll
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\bin\Release\netcoreapp2.1\Insight_Core.pdb
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.csprojAssemblyReference.cache
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.csproj.CoreCompileInputs.cache
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.AssemblyInfoInputs.cache
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.AssemblyInfo.cs
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.csproj.CopyComplete
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.dll
+H:\GitHub Projects\Insights\Insight\Insights_Infrastructure\obj\Release\netcoreapp2.1\Insight_Infrastructure.pdb

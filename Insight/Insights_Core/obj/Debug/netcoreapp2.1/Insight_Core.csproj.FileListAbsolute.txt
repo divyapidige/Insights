@@ -1,0 +1,9 @@
+H:\GitHub Projects\Insights\Insight\Insights_Core\bin\Debug\netcoreapp2.1\Insight_Core.deps.json
+H:\GitHub Projects\Insights\Insight\Insights_Core\bin\Debug\netcoreapp2.1\Insight_Core.dll
+H:\GitHub Projects\Insights\Insight\Insights_Core\bin\Debug\netcoreapp2.1\Insight_Core.pdb
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.csproj.CoreCompileInputs.cache
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.AssemblyInfoInputs.cache
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.AssemblyInfo.cs
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.dll
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.pdb
+H:\GitHub Projects\Insights\Insight\Insights_Core\obj\Debug\netcoreapp2.1\Insight_Core.csprojAssemblyReference.cache

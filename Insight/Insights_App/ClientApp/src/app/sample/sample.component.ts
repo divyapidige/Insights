@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { environment } from '../../environments/environment';
+import { AuthService } from '../login/services/auth.service';
 
 @Component({
   selector: 'app-sample',
@@ -10,21 +11,19 @@ import { environment } from '../../environments/environment';
 export class SampleComponent implements OnInit {
 
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient, private auth: AuthService) { }
 
   data;
-  title = 'ClientApp';
 
   ngOnInit() {
     this.loadData();
   }
 
   async loadData() {
-    var header = new HttpHeaders({ 'content-type': 'application/json' });
-    var apiUrl = environment.apiUrl + '/SampleData';
-    //var d = await this.http.request('get', apiUrl , { headers: header, reportProgress: false }).toPromise();
-    var d = await this.http.request('get', apiUrl , { headers: header, reportProgress: false }).toPromise();
-    this.data = d;
+    debugger;
+    let data = await this.auth.getSampleData();
+    
+    this.data = data;
   }
 
 }

@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'Http://localhost:81/Home/api',
-  virtualDirectoryName: 'Home'
+  virtualDirectoryName: ''
+  //virtualDirectoryName: 'home/'
 };
 
 /*
